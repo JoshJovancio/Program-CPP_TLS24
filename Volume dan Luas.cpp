@@ -160,7 +160,7 @@ int main(){
 			cout << "Tidak ada yang dihitung"<<endl;
 		}
 	
-		cout <<"===========================s=================================="<<endl;
+		cout <<"============================================================="<<endl;
 		cout <<"Apakah anda ingin menghitung bangun ruang yang lain (y/n) : "; cin >> loop1;
 	
 		if (loop1 != 'Y' and loop1 !='y') idx3 = !idx3;
